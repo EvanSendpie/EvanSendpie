@@ -29,7 +29,7 @@ I started from a background in **Computer & Telecommunication Electronics** and 
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,,bootstrap,nodejs,git,github,vscode,arduino,bash,linux,docker,kubernetes,grafana,nginx" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,git,github,vscode,arduino,bash,linux,docker,kubernetes,grafana,nginx" />
 </p>
 
 ### Networking & Infrastructure
@@ -38,7 +38,7 @@ I started from a background in **Computer & Telecommunication Electronics** and 
 
 ---
 
-## 🌐 Networking & Homelab
+## Networking & Homelab
 
 I have a strong interest in understanding how systems communicate and how infrastructure works behind the scenes.
 
@@ -97,10 +97,19 @@ Paralel Computing
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&hide_border=true&rank_icon=github" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSendpie&layout=compact&hide_border=true" height="170" />
-</p>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&hide_border=true&rank_icon=github&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&hide_border=true&rank_icon=github&theme=default"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&hide_border=true&rank_icon=github"
+  />
+</picture>
 
 ---
 
