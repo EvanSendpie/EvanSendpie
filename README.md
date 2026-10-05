@@ -24,7 +24,7 @@ I started from a background in **Computer & Telecommunication Electronics** and 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,php,python" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql,mongodb" />
 </p>
 
 ### Frameworks & Tools
@@ -74,17 +74,10 @@ A simple coffee-shop management simulation focused on an accessible and enjoyabl
 
 ---
 
-### 🧮 Speed Math
-A lightweight browser-based math game focused on speed, accuracy, and quick decision making.
-
-**Tech:** `HTML` · `CSS` · `JavaScript`
-
----
-
 ### 🖥️ Homelab
 My personal playground for experimenting with Linux servers, Docker, networking, self-hosted services, and game servers.
 
-**Environment:** `Ubuntu Server` · `Docker` · `Tailscale` · `Crafty Controller`
+**Environment:** `Ubuntu Server` · `Docker` · `Tailscale` · `Crafty Controller` · `CasaOS`
 
 ---
 
@@ -96,7 +89,8 @@ Edge Intelligence & Computing
 IoT & Embedded Systems
 Computer Networks
 Linux & Server Administration
-Data Structures & Algorithms
+Data Processing and Infrastructure
+Paralel Computing
 ```
 
 ---
