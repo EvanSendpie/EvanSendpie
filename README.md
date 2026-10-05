@@ -97,19 +97,10 @@ Paralel Computing
 
 ## 📊 GitHub Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&hide_border=true&rank_icon=github&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&hide_border=true&rank_icon=github&theme=default"
-    media="(prefers-color-scheme: light)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&hide_border=true&rank_icon=github"
-  />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EvanSendpie&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanSendpie&layout=compact&theme=dark&hide_border=true" height="170" />
+</p>
 
 ---
 
