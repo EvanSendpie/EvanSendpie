@@ -24,12 +24,12 @@ I started from a background in **Computer & Telecommunication Electronics** and 
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql,mongodb" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css,mysql,mongodb,matlab" />
 </p>
 
 ### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,,bootstrap,nodejs,git,github,vscode,arduino,bash,linux,docker,kubernetes,grafana,nginx" />
 </p>
 
 ### Networking & Infrastructure
