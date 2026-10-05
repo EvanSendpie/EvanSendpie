@@ -1,4 +1,4 @@
-# Hi, I'm Stefanus Evan 👋
+# Hi, I'm Stefanus Evan
 
 ### Computer Engineering Student · Networking · IoT · Software
 
@@ -8,19 +8,19 @@ I started from a background in **Computer & Telecommunication Electronics** and 
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🎓 Studying **Computer Engineering @ Universitas Brawijaya**
-- 🌐 Interested in **Computer Networking & Infrastructure**
-- 🔌 Exploring **IoT, Embedded Systems & Edge Computing**
-- 💻 Building projects with **C++, JavaScript, React, and more**
-- 🖥️ Running a small **homelab** for experimentation
-- 🧠 Currently learning more about **Computer Vision & Edge Intelligence**
-- 🚀 I enjoy turning ideas into working projects
+- Studying **Computer Engineering @ Universitas Brawijaya**
+- Interested in **Computer Networking & Infrastructure**
+- Exploring **IoT, Embedded Systems & Edge Computing**
+- Building projects with **C++, JavaScript, React, and more**
+- Running a small **homelab** for experimentation
+- Currently learning more about **Computer Vision & Edge Intelligence**
+- I enjoy turning ideas into working projects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -58,30 +58,30 @@ Some things I've worked with:
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🎮 Life is Short
+### Life is Short
 A web-based life simulation game where players progress through different stages of life, make decisions, manage stats, study, work, and encounter random events.
 
 **Tech:** `JavaScript` · `HTML` · `CSS`
 
 ---
 
-### ☕ Warung Kopi Tycoon
+### Warung Kopi Tycoon
 A simple coffee-shop management simulation focused on an accessible and enjoyable gameplay experience.
 
 **Tech:** `HTML` · `CSS` · `JavaScript`
 
 ---
 
-### 🖥️ Homelab
+### Homelab
 My personal playground for experimenting with Linux servers, Docker, networking, self-hosted services, and game servers.
 
 **Environment:** `Ubuntu Server` · `Docker` · `Tailscale` · `Crafty Controller` · `CasaOS`
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 
 ```text
 Computer Vision
