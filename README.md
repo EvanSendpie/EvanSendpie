@@ -4,7 +4,11 @@
 
 I'm a **Computer Engineering student at Universitas Brawijaya** who enjoys building things across the intersection of hardware, software, and computer networks.
 
-I started from a background in **Computer & Telecommunication Electronics** and gained hands-on experience with networking infrastructure, before continuing my journey into programming, IoT, homelab, and systems.
+I started from a background in **Electronics & Telecommunication Engineering** and gained hands-on experience with networking infrastructure, before continuing my journey into programming, IoT, homelab, and systems.
+
+<p align="center">
+  <img src="./terminal.svg" alt="evan@homelab terminal" width="100%" />
+</p>
 
 ---
 
